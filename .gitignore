@@ -3,3 +3,5 @@ runtime/*
 # phpstorm project files
 .idea
 vendor/
+config/db.php
+web/index.php
